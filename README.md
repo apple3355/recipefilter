@@ -84,3 +84,10 @@
 
 - 📺  **Our Youtube link ->**  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat&logo=youtube&link=https://youtu.be/2tgA8FhfZqY)](https://youtu.be/2tgA8FhfZqY)    
 
+---
+
+# 5. Blog 
+
+<img src="https://img.shields.io/badge/고성범-3766AB?style=flat"/></a> 🎈**Blog link ->**  https://velog.io/@sbko <br>
+<img src="https://img.shields.io/badge/배은지-47A248?style=flat"/></a> 🎈**Blog link ->**  https://create-something-from-nothing.tistory.com/ <br> 
+<img src="https://img.shields.io/badge/이도연-7952B3?style=flat"/></a> 🎈**Blog link ->**  https://velog.io/@doyeon11 <br>
